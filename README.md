@@ -1,4 +1,4 @@
-# Procedural World Science
+# Procedural Magic
 
 A Unity-based procedural world simulation featuring advanced civilization dynamics, storytelling systems, and emergent narrative generation.
 
@@ -78,4 +78,4 @@ All rights reserved. This code is proprietary and confidential. Unauthorized cop
 
 ## Contributing
 
-[Add contribution guidelines here] 
+[Add contribution guidelines here]
