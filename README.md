@@ -74,7 +74,7 @@ This project uses:
 
 ## License
 
-[Add your license information here]
+All rights reserved. This code is proprietary and confidential. Unauthorized copying, distribution, or use of this software is strictly prohibited without explicit written permission from the author.
 
 ## Contributing
 
