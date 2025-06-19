@@ -74,7 +74,9 @@ This project uses:
 
 ## License
 
-All rights reserved. This code is proprietary and confidential. Unauthorized copying, distribution, or use of this software is strictly prohibited without explicit written permission from the author.
+This project is proprietary software with all rights reserved. See the [LICENSE](LICENSE) file for complete terms.
+
+**TL;DR**: This code fully and completely belongs to the author. No permissions are granted for any use, modification, or distribution without explicit written permission.
 
 ## Contributing
 
