@@ -1,0 +1,1 @@
+// This file has been consolidated into Core/SimulationTypes.cs 
